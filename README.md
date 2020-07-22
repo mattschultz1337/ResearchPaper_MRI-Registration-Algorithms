@@ -1,7 +1,8 @@
-#MRI RegistrationAlgorithms
-#Written for CS301 for Professor G. Weinschenk Spring 2019
+**MRI RegistrationAlgorithms**
+Matthew Schultz
+*Written for CS301 for Professor G. Weinschenk Spring 2019*
 
-#Abstract
+## Abstract
 MRI registration algorithms are used to convert data from MRI scans into three-dimensional
 segmentations of the brain. VoxelMorph is a registration method developed by researchers at
 MIT and Cornell University which utilizes a convolutional neural network to treat the image
