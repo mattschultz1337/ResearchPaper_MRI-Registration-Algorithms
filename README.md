@@ -1,5 +1,7 @@
 **MRI RegistrationAlgorithms**
+
 Matthew Schultz
+
 *Written for CS301 for Professor G. Weinschenk Spring 2019*
 
 ## Abstract
