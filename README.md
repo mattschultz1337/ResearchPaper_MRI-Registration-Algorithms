@@ -2,7 +2,7 @@
 
 Matthew Schultz
 
-*Written for CS301 for Professor G. Weinschenk Spring 2019*
+*Written during CS301 for Professor G. Weinschenk Spring 2019*
 
 ## Abstract
 MRI registration algorithms are used to convert data from MRI scans into three-dimensional
